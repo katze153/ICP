@@ -23,6 +23,7 @@ After creating the app, you must activate the following permissions:
 - files.metadata.write
 - files.content.write
 - files.content.read
+
 Once this is done, you only need to follow the steps provided by the program.
 
 Sharing:
